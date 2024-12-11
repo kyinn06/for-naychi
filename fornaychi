@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>For My Love</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            background-color: #fffbe7;
+            color: #6a1b9a;
+        }
+        .tulip {
+            font-size: 50px;
+        }
+        .message {
+            margin-top: 20px;
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="tulip">🌷</div>
+    <div class="message">For you, my love!</div>
+</body>
+</html>
